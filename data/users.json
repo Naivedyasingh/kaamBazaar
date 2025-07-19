@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "naivedyasingh jadaun",
+        "phone": "9111439303",
+        "password": "mrsn14/06",
+        "role": "job_seeker",
+        "skills": [
+            "Maid"
+        ],
+        "experience": "4",
+        "city": "indore"
+    },
+    {
+        "role": "job_seeker",
+        "name": "om",
+        "phone": "9111439304",
+        "password": "Mrsn14/06",
+        "age": 18,
+        "city": "indore",
+        "work_type": "cleaning",
+        "experience": 5,
+        "messages": []
+    },
+    {
+        "id": 2,
+        "role": "hire",
+        "name": "om",
+        "phone": "9993922341",
+        "password": "Abcdef12@",
+        "email": "om@gmail.com",
+        "city": "indore",
+        "company_name": "Home",
+        "company_type": "Small Business",
+        "company_address": "rau 453331"
+    },
+    {
+        "id": 3,
+        "role": "job",
+        "name": "amit jaat",
+        "phone": "9443939223",
+        "password": "Abcdef12@",
+        "email": "amit@gmail.com",
+        "city": "Indore",
+        "aadhaar": "456262414784",
+        "age": 23,
+        "gender": "Male",
+        "experience": "Experienced (1-3 years)",
+        "work_type": [
+            "Driver"
+        ],
+        "expected_salary": 10000,
+        "availability": [
+            "Full Time"
+        ]
+    }
+]
