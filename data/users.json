@@ -1,26 +1,15 @@
 [
     {
         "id": 1,
-        "name": "naivedyasingh jadaun",
-        "phone": "9111439303",
-        "password": "mrsn14/06",
-        "role": "job_seeker",
-        "skills": [
-            "Maid"
-        ],
-        "experience": "4",
-        "city": "indore"
-    },
-    {
-        "role": "job_seeker",
-        "name": "om",
-        "phone": "9111439304",
-        "password": "Mrsn14/06",
-        "age": 18,
-        "city": "indore",
-        "work_type": "cleaning",
-        "experience": 5,
-        "messages": []
+        "role": "hire",
+        "name": "aman",
+        "phone": "9893922378",
+        "password": "Abcdef123@",
+        "email": "aman@gmail.com",
+        "city": "Bhopal",
+        "company_name": "Home",
+        "company_type": "Small Business",
+        "company_address": "Jsw near railway station Bhopal"
     },
     {
         "id": 2,
